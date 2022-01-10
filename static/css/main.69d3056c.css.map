@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.69d3056c.css","mappings":"AAAA,YACE,YAAa,CACb,kBAAmB,CACnB,6BACF","sources":["styles.css"],"sourcesContent":[".mainWindow {\n  display: flex;\n  flex-direction: row;\n  justify-content: space-between;\n}\n"],"names":[],"sourceRoot":""}

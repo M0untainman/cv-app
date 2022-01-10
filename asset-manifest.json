@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/M0untainman/cv-app/static/css/main.69d3056c.css",
+    "main.js": "/M0untainman/cv-app/static/js/main.88486c71.js",
+    "index.html": "/M0untainman/cv-app/index.html",
+    "main.69d3056c.css.map": "/M0untainman/cv-app/static/css/main.69d3056c.css.map",
+    "main.88486c71.js.map": "/M0untainman/cv-app/static/js/main.88486c71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69d3056c.css",
+    "static/js/main.88486c71.js"
+  ]
+}
